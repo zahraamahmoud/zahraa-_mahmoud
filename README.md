@@ -79,4 +79,4 @@ Dr.  Ahmed M. Badawi
 
  
 
-2- result of applying snake with: α= 170, β=90, initial iteration=70, center of initial circle= (254,158) <img src="Snakes1.PNG" alt="img" style="zoom:150%;" />
+2- result of applying snake with: α= 170, β=90, initial iteration=70, center of initial circle= (254,158) <img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/Snakes1.PNG" alt="img" style="zoom:150%;" />
