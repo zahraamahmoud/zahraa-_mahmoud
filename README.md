@@ -1,7 +1,7 @@
 
 # ** Computer Vision Task 2** 
 
-#### Prepared by:  
+## Prepared by:  
 
   Gehad Mohamed
 
@@ -11,13 +11,11 @@ Noran Tharowat
 
 Nancy Salah
 
-
-
-#### Supervised by: 
+## Supervised by: 
 
 Dr.  Ahmed M. Badawi
 
-#### ·    Contents:
+##  Contents:
 
 1- How to use the GUI.
 
@@ -28,7 +26,6 @@ Dr.  Ahmed M. Badawi
 4- Circle Detection Using Hough Transform.
 
 5- Active Contour Model (Snake).
-
 
 
 #### **1-**  **How to use the GUI:**
