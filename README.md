@@ -28,7 +28,8 @@ Dr.  Ahmed M. Badawi
 5- Active Contour Model (Snake).
 
 
-#### **1-**  **How to use the GUI:**
+## **1-**  **How to use the GUI:**
+
 
 <img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/gui.jpg" alt="img" style="zoom:100%;" />
 
@@ -44,7 +45,7 @@ Dr.  Ahmed M. Badawi
 
  
 
-####  **2- Canny Edge Detection** 
+##  2- Canny Edge Detection** 
 
 ·     The result of applying Canny edge detector on a colored image.
 
@@ -52,13 +53,15 @@ Dr.  Ahmed M. Badawi
 
  
 
-#### **3- Line Detection Using Hough Transform**
+## **3- Line Detection Using Hough Transform**
+
 
 ·     The result of applying line detector on an image.
 
 <img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/HoughLines.PNG" alt="img" style="zoom:100%;" />
 
-#### **4- Circle Detection Using Hough Transform**
+## **4- Circle Detection Using Hough Transform**
+
 
 
 
@@ -66,7 +69,8 @@ Dr.  Ahmed M. Badawi
 
 <img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/HoughCircles.PNG" alt="img" style="zoom:100%;" />
 
-#### **5-Active Contour Model (Snake)**
+## **5-Active Contour Model (Snake)**
+
 
 1- result of applying snake with: α=100, β=200, initial iteration=30, center of initial circle= (290,440) 
 
