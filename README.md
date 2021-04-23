@@ -33,7 +33,7 @@ Dr.  Ahmed M. Badawi
 
 #### **1-**  **How to use the GUI:**
 
-<img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/gui.jp" alt="img" style="zoom:100%;" />
+<img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/gui.jpg" alt="img" style="zoom:100%;" />
 
 ·  Click on File from the menu bar, you will see one option, Load img.
 
