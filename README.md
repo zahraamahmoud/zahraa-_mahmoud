@@ -33,7 +33,7 @@ Dr.  Ahmed M. Badawi
 
 #### **1-**  **How to use the GUI:**
 
-<img src="file:///C:/Users/Saiko/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" alt="img" style="zoom:150%;" />
+<img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/gui.jp" alt="img" style="zoom:100%;" />
 
 ·  Click on File from the menu bar, you will see one option, Load img.
 
@@ -51,7 +51,7 @@ Dr.  Ahmed M. Badawi
 
 ·     The result of applying Canny edge detector on a colored image.
 
-<img src="Canny.PNG" alt="img" style="zoom:150%;" />
+<img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/Canny.PNG" alt="img" style="zoom:100%;" />
 
  
 
@@ -59,7 +59,7 @@ Dr.  Ahmed M. Badawi
 
 ·     The result of applying line detector on an image.
 
-<img src="HoughLines.PNG" alt="img" style="zoom:150%;" />
+<img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/HoughLines.PNG" alt="img" style="zoom:100%;" />
 
 #### **4- Circle Detection Using Hough Transform**
 
@@ -67,7 +67,7 @@ Dr.  Ahmed M. Badawi
 
 ·     The result of applying circle detector on an image.
 
-<img src="HoughCircles.PNG" alt="img" style="zoom:150%;" />
+<img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/HoughCircles.PNG" alt="img" style="zoom:100%;" />
 
 #### **5-Active Contour Model (Snake)**
 
@@ -75,8 +75,8 @@ Dr.  Ahmed M. Badawi
 
 
 
-<img src="Snakes2.PNG" alt="img" style="zoom:150%;" />
+<img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/Snakes2.PNG" alt="img" style="zoom:100%;" />
 
  
 
-2- result of applying snake with: α= 170, β=90, initial iteration=70, center of initial circle= (254,158) <img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/Snakes1.PNG" alt="img" style="zoom:150%;" />
+2- result of applying snake with: α= 170, β=90, initial iteration=70, center of initial circle= (254,158) <img src="https://github.com/sbme-tutorials/cv404-2021-project-2-sbe404b-team17/blob/master/Results/Snakes1.PNG" alt="img" style="zoom:100%;" />
