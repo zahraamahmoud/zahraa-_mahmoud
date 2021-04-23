@@ -51,7 +51,7 @@ Dr.  Ahmed M. Badawi
 
 ·     The result of applying Canny edge detector on a colored image.
 
-<img src="file:///C:/Users/Saiko/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" alt="img" style="zoom:150%;" />
+<img src="Canny.PNG" alt="img" style="zoom:150%;" />
 
  
 
@@ -59,7 +59,7 @@ Dr.  Ahmed M. Badawi
 
 ·     The result of applying line detector on an image.
 
-<img src="file:///C:/Users/Saiko/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png" alt="img" style="zoom:150%;" />
+<img src="HoughLines.PNG" alt="img" style="zoom:150%;" />
 
 #### **4- Circle Detection Using Hough Transform**
 
@@ -67,7 +67,7 @@ Dr.  Ahmed M. Badawi
 
 ·     The result of applying circle detector on an image.
 
-<img src="file:///C:/Users/Saiko/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png" alt="img" style="zoom:150%;" />
+<img src="HoughCircles.PNG" alt="img" style="zoom:150%;" />
 
 #### **5-Active Contour Model (Snake)**
 
@@ -75,8 +75,8 @@ Dr.  Ahmed M. Badawi
 
 
 
-<img src="file:///C:/Users/Saiko/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png" alt="img" style="zoom:150%;" />
+<img src="Snakes2.PNG" alt="img" style="zoom:150%;" />
 
  
 
-2- result of applying snake with: α= 170, β=90, initial iteration=70, center of initial circle= (254,158) <img src="file:///C:/Users/Saiko/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png" alt="img" style="zoom:150%;" />
+2- result of applying snake with: α= 170, β=90, initial iteration=70, center of initial circle= (254,158) <img src="Snakes1.PNG" alt="img" style="zoom:150%;" />
